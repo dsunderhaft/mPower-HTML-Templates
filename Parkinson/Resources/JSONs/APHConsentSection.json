@@ -1,9 +1,9 @@
 {
     "documentProperties" :
     {
-        "htmlDocument" : "PD_fullconsent",
-        "investigatorShortDescription": "Sage Bionetworks",
-        "investigatorLongDescription": "Sage Bionetworks and its partners",
+        "htmlDocument" : "Pilot_fullconsent",
+        "investigatorShortDescription": "Pilot Investigator",
+        "investigatorLongDescription": "Pilot Investigator and its partners",
         "htmlContent": "15sharing_rsch"
     },
     "quiz":
@@ -22,8 +22,8 @@
                 "type": "singleChoiceText",
                 "textChoices":
                 [
-                 "Understand the fluctuations of Parkinson disease symptoms",
-                 "Treating Parkinson disease"
+                 "Understand how to use REDCap Cloud for Mobile ePRO Studies",
+                 "Treating disease"
                 ],
                 "expectedAnswer": "0"
             },
@@ -63,7 +63,7 @@
     [
      {
          "sectionType" : "onlyInDocument",
-         "sectionHtmlContent" : "PD_fullconsent"
+         "sectionHtmlContent" : "Pilot_fullconsent"
      },
      {
          "sectionType" : "overview",
@@ -103,31 +103,31 @@
      {
          "sectionType" : "privacy",
          "sectionTitle": "Protecting your Data",
-         "sectionSummary": "We will replace your name with a random code. The coded data will be encrypted and stored on a secure Cloud server under the control of Sage Bionetworks to prevent improper access.",
+         "sectionSummary": "We will replace your name with a random code. The coded data will be encrypted and stored on a secure Cloud server under the control of the Pilot Administrator to prevent improper access.",
          "sectionHtmlContent" : "6protectingdata"
      },
      {
          "sectionType" : "dataUse",
          "sectionTitle": "Data Use",
-         "sectionSummary": "Your coded data will be used for research and may be shared with other researchers worldwide.",
+         "sectionSummary": "Your coded data will not be used for research and may be shared with other researchers worldwide.",
          "sectionHtmlContent" : "7datause"
      },
      {
          "sectionType" : "timeCommitment",
          "sectionTitle" : "Issues to Consider",
-         "sectionSummary": "This study will take about 20 minutes per day.",
+         "sectionSummary": "This study will take about 15 minutes per week.",
          "sectionHtmlContent" : "8time"
      },
      {
          "sectionType" : "studySurvey",
          "sectionTitle" : "Study Survey",
-         "sectionSummary": "We will also ask you to answer brief weekly and monthly surveys about your symptoms to track any changes.",
+         "sectionSummary": "We will ask you to answer brief weekly surveys.",
          "sectionHtmlContent" : "9study_survey"
      },
      {
          "sectionType" : "studyTasks",
          "sectionTitle" : "Study Activities",
-         "sectionSummary": "We will ask you to perform specific activities, like walking a few steps while holding or using your iPhone.",
+         "sectionSummary": "We will also ask you to share your steps per day as tracked by healthkit on your iPhone and or your Apple Watch.",
          "sectionHtmlContent" : "10study_task"
      },
      {
