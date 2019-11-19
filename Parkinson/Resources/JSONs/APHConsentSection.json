@@ -67,23 +67,12 @@
      },
      {
          "sectionType" : "overview",
-         "sectionSummary" : "This simple walkthrough will explain the research study, the impact it may have on your life and will allow you to provide your consent to participate.",
-         "sectionHtmlContent" : "1welcome"
+         "sectionSummary" : "This simple walkthrough will explain the research study, the impact it may have on your life and will allow you to provide your consent to participate. At the end of this walkthrough, we will ask you a few questions about the details of the study."
      },
      {
-         "sectionType" : "custom",
-         "sectionTitle": "We'll Test Your Understanding",
-         "sectionSummary": "At the end of this walkthrough, we will ask you a few questions about the details of the study.",
-        "sectionImage": "quiz_image",
-        "sectionHtmlContent" : "2quiz_headsup"
-     },
-     {
-         "sectionType" : "custom",
-         "sectionTitle": "Activities",
-         "sectionSummary": "To better understand your evolving health, we will ask you to perform simple activities and respond to surveys.",
-         "sectionHtmlContent" : "3activities",
-         "sectionImage": "00_Blank_to_Activities",
-         "sectionAnimationUrl": "00_Blank_to_Activities"
+         "sectionType" : "studySurvey",
+         "sectionTitle": "Surveys",
+         "sectionSummary": "To better understand your evolving health, we will ask you to respond to brief weekly surveys about your quality of life and health status."
      },
      {
          "sectionType" : "custom",
