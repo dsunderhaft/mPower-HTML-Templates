@@ -67,7 +67,8 @@
      },
      {
          "sectionType" : "overview",
-         "sectionSummary" : "This simple walkthrough will explain the research study, the impact it may have on your life and will allow you to provide your consent to participate. At the end of this walkthrough, we will ask you a few questions about the details of the study."
+         "sectionTitle": "Welcome",
+         "sectionSummary" : "This simple walkthrough will explain the research study, the impact it may have on your life and will allow you to provide your consent to participate."
      },
      {
          "sectionType" : "studySurvey",
@@ -77,47 +78,32 @@
      {
          "sectionType" : "custom",
          "sectionTitle": "Sensor Data",
-         "sectionSummary": "This study will also gather sensor data from your iPhone and personal devices with your permission.",
-         "sectionHtmlContent" : "4sensordata",
+         "sectionSummary": "We will ask you to share your steps per day as tracked by Healthkit on your iPhone and/or other devices that sync to your Apple Health app.",
          "sectionImage": "01_Activities_to_SensorData",
          "sectionAnimationUrl":"01_Activities_to_SensorData"
      },
      {
-         "sectionType" : "dataGathering",
-         "sectionTitle": "Data Processing",
-         "sectionSummary" : "Your study data (survey, activities and sensors) will be combined with similar data from other participants.",
-         "sectionHtmlContent" : "5dataprocessing",
-         "sectionAnimationUrl":"02_SensorData_to_DataGathering"
+         "sectionType" : "timeCommitment",
+         "sectionTitle" : "Time Required",
+         "sectionSummary": "This study will take about 10 minutes per week.",
+         "sectionHtmlContent" : "8time"
      },
      {
          "sectionType" : "privacy",
          "sectionTitle": "Protecting your Data",
-         "sectionSummary": "We will replace your name with a random code. The coded data will be encrypted and stored on a secure Cloud server under the control of the Pilot Administrator to prevent improper access.",
-         "sectionHtmlContent" : "6protectingdata"
+         "sectionSummary": "We will replace your name with a random code. The coded data will be encrypted and stored on a secure Cloud server under the control of the Study Administrator to prevent improper access."
+     },
+     {
+         "sectionType" : "dataGathering",
+         "sectionTitle": "Data Processing",
+         "sectionSummary" : "Your study data collected from surveys and sensors will be combined with similar data from other participants.",
+         "sectionAnimationUrl":"02_SensorData_to_DataGathering"
      },
      {
          "sectionType" : "dataUse",
          "sectionTitle": "Data Use",
-         "sectionSummary": "Your coded data will not be used for research and may be shared with other researchers worldwide.",
+         "sectionSummary": "Your coded data will not be used for research and may be shared with researchers within Genentech and Roche.",
          "sectionHtmlContent" : "7datause"
-     },
-     {
-         "sectionType" : "timeCommitment",
-         "sectionTitle" : "Issues to Consider",
-         "sectionSummary": "This study will take about 15 minutes per week.",
-         "sectionHtmlContent" : "8time"
-     },
-     {
-         "sectionType" : "studySurvey",
-         "sectionTitle" : "Study Survey",
-         "sectionSummary": "We will ask you to answer brief weekly surveys.",
-         "sectionHtmlContent" : "9study_survey"
-     },
-     {
-         "sectionType" : "studyTasks",
-         "sectionTitle" : "Study Activities",
-         "sectionSummary": "We will also ask you to share your steps per day as tracked by healthkit on your iPhone and or your Apple Watch.",
-         "sectionHtmlContent" : "10study_task"
      },
      {
          "sectionType" : "withdrawing",
@@ -128,8 +114,7 @@
      {
          "sectionType" : "custom",
          "sectionTitle": "Potential Benefits",
-         "sectionSummary": "You will be able to visualize your data and potentially learn more about trends in your health.",
-         "sectionHtmlContent" : "12potentialbenefits1",
+         "sectionSummary": "You will be able to visualize your sensor data and potentially learn more about trends in your health.",
          "sectionImage": "10_PotentialBenifits",
          "sectionAnimationUrl":"10_PotentialBenifits"
      },
