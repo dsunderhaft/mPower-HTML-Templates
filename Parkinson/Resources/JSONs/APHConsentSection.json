@@ -85,8 +85,7 @@
      {
          "sectionType" : "timeCommitment",
          "sectionTitle" : "Time Required",
-         "sectionSummary": "This study will take about 10 minutes per week.",
-         "sectionHtmlContent" : "8time"
+         "sectionSummary": "This study will take about 10 minutes per week."
      },
      {
          "sectionType" : "privacy",
@@ -102,8 +101,7 @@
      {
          "sectionType" : "dataUse",
          "sectionTitle": "Data Use",
-         "sectionSummary": "Your coded data will not be used for research and may be shared with researchers within Genentech and Roche.",
-         "sectionHtmlContent" : "7datause"
+         "sectionSummary": "Your coded data will not be used for research and may be shared with researchers within Genentech and Roche."
      },
      {
          "sectionType" : "withdrawing",
